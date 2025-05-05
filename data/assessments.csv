@@ -1,0 +1,6 @@
+assessment_id,name,skill_area,difficulty_level,role_tag
+101,Numerical Reasoning,Reasoning,Medium,Analyst
+102,Coding Test - Python,Programming;Python,High,Developer
+103,Verbal Reasoning,Verbal Skills,Medium,Analyst
+104,Excel Simulation,Excel;Productivity,Easy,Business Analyst
+105,Java Backend Coding,Java;Backend,High,Software Engineer

@@ -1,0 +1,27 @@
+{
+  "U001": [
+    "Numerical Reasoning",
+    "Excel Simulation",
+    "Java Backend Coding"
+  ],
+  "U002": [
+    "Java Backend Coding",
+    "Excel Simulation",
+    "Verbal Reasoning"
+  ],
+  "U003": [
+    "Excel Simulation",
+    "Java Backend Coding",
+    "Verbal Reasoning"
+  ],
+  "U004": [
+    "Coding Test - Python",
+    "Java Backend Coding",
+    "Excel Simulation"
+  ],
+  "U005": [
+    "Numerical Reasoning",
+    "Verbal Reasoning",
+    "Java Backend Coding"
+  ]
+}
